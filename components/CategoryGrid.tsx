@@ -11,7 +11,7 @@ type CategoryGridProps = {
 
 export function CategoryGrid({ selection }: CategoryGridProps) {
   return (
-    <section className="grid grid-cols-1 gap-10 md:grid-cols-2 md:gap-x-12 md:gap-y-14">
+    <section className="grid grid-cols-1 gap-14 md:grid-cols-2 md:gap-x-16 md:gap-y-20">
       <AnimatedCard index={0}>
         <PaintingCard item={selection.painting} />
       </AnimatedCard>

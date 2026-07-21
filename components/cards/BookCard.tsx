@@ -8,24 +8,32 @@ type BookCardProps = {
 
 export function BookCard({ item }: BookCardProps) {
   return (
-    <CategoryCard label="Book">
-      <div className="flex flex-1 flex-col gap-5 sm:flex-row sm:items-start">
+    <CategoryCard label="Book" number="iv.">
+      <div className="flex flex-1 items-center gap-8 py-4 sm:gap-10">
         {item.imageUrl ? (
-          <div className="relative h-44 w-28 shrink-0 overflow-hidden border border-border bg-surface shadow-sm">
+          <div className="relative h-52 w-34 shrink-0 -rotate-1 overflow-hidden rounded-r-sm shadow-[2px_4px_16px_rgba(28,28,28,0.18)] transition-transform duration-500 ease-out hover:rotate-0 sm:h-60 sm:w-40">
             <Image
               src={item.imageUrl}
               alt={`Cover of ${item.title}`}
               fill
               className="object-cover"
-              sizes="112px"
+              sizes="160px"
+            />
+            <span
+              aria-hidden
+              className="absolute inset-y-0 left-0 w-[3px] bg-gradient-to-r from-black/25 to-transparent"
             />
           </div>
         ) : null}
-        <div className="space-y-2">
-          <h2 className="font-display text-xl leading-snug text-foreground">{item.title}</h2>
-          <p className="text-sm text-secondary">{item.creator}</p>
+        <div>
+          <h2 className="font-display text-xl leading-snug text-foreground md:text-2xl">
+            {item.title}
+          </h2>
+          <p className="mt-1.5 text-sm tracking-wide text-secondary">{item.creator}</p>
           {item.excerpt ? (
-            <p className="max-w-prose text-sm leading-relaxed text-secondary">{item.excerpt}</p>
+            <p className="mt-4 max-w-prose border-l border-border pl-4 font-display text-sm italic leading-relaxed text-secondary">
+              {item.excerpt}
+            </p>
           ) : null}
         </div>
       </div>

@@ -5,6 +5,8 @@ import "./globals.css";
 const fraunces = Fraunces({
   variable: "--font-fraunces",
   subsets: ["latin"],
+  style: ["normal", "italic"],
+  axes: ["opsz", "SOFT", "WONK"],
   display: "swap",
 });
 
@@ -31,7 +33,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${fraunces.variable} ${sourceSans.variable} h-full`}>
-      <body className="min-h-full antialiased">{children}</body>
+      <body className="paper min-h-full antialiased">{children}</body>
     </html>
   );
 }
