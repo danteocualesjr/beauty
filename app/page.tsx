@@ -10,7 +10,7 @@ export default async function Home() {
   const selection = await getDailySelection(today);
 
   return (
-    <main className="mx-auto min-h-screen w-full max-w-6xl px-6 pb-16 pt-14 md:px-10 md:pb-24 md:pt-20">
+    <main className="relative mx-auto min-h-screen w-full max-w-6xl px-5 pb-20 pt-16 md:px-12 md:pb-28 md:pt-24">
       <DailyHeader date={today} />
       <CategoryGrid selection={selection} />
       <DailyFooter selection={selection} />

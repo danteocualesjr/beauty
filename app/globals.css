@@ -1,11 +1,11 @@
 @import "tailwindcss";
 
 :root {
-  --background: #faf8f5;
+  --background: #f7f3ec;
   --foreground: #1c1c1c;
-  --surface: #fffefc;
+  --surface: #fffcf7;
   --secondary: #6b6560;
-  --border: #e8e4df;
+  --border: #e4ddd3;
   --accent: #8b7355;
 }
 
@@ -37,15 +37,23 @@ button:focus-visible {
   outline-offset: 3px;
 }
 
-/* Soft paper grain so large ivory fields don't look flat on big screens */
+/* Warm gallery atmosphere: vignette wash + faint paper grain */
+.paper {
+  background-color: var(--background);
+  background-image:
+    radial-gradient(ellipse 90% 55% at 50% -10%, rgba(255, 252, 245, 0.95), transparent 55%),
+    radial-gradient(ellipse 70% 50% at 50% 110%, rgba(232, 220, 200, 0.35), transparent 50%);
+}
+
 .paper::before {
   content: "";
   position: fixed;
   inset: 0;
   pointer-events: none;
   z-index: 50;
-  opacity: 0.35;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.42 0 0 0 0 0.39 0 0 0 0 0.35 0 0 0 0.05 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  opacity: 0.28;
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0.42 0 0 0 0 0.38 0 0 0 0 0.32 0 0 0 0.06 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
 }
 
 @media (prefers-reduced-motion: reduce) {
