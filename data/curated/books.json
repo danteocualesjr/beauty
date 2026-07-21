@@ -167,13 +167,13 @@
   {
     "id": "book-016",
     "category": "book",
-    "title": "Norwegian Wood",
-    "creator": "Haruki Murakami",
-    "excerpt": "Nostalgic, melancholy coming-of-age set to Beatles records and rain.",
-    "imageUrl": "https://covers.openlibrary.org/b/isbn/9780375704024-L.jpg",
-    "sourceUrl": "https://openlibrary.org/works/OL1168009W",
-    "attribution": "Haruki Murakami, Open Library",
-    "isbn": "9780375704024"
+    "title": "Invisible Cities",
+    "creator": "Italo Calvino",
+    "excerpt": "Marco Polo describes impossible cities to Kublai Khan — prose as luminous architecture.",
+    "imageUrl": "https://covers.openlibrary.org/b/isbn/9780156453806-L.jpg",
+    "sourceUrl": "https://openlibrary.org/works/OL1068286W",
+    "attribution": "Italo Calvino, Open Library",
+    "isbn": "9780156453806"
   },
   {
     "id": "book-017",

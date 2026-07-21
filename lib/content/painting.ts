@@ -23,7 +23,7 @@ export async function getDailyPainting(dateKey: string): Promise<DailyItem> {
   if (metEnabled && selected.metObjectId) {
     const metObject = await getCachedMetObject(selected.metObjectId);
 
-    if (metObject) {
+    if (metObject && metObject.objectID === selected.metObjectId && metObject.primaryImage) {
       return {
         id: `met-${metObject.objectID}`,
         category: "painting",
