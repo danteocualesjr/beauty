@@ -1,0 +1,272 @@
+[
+  {
+    "id": "quote-001",
+    "category": "quote",
+    "title": "On the examined life",
+    "creator": "Socrates",
+    "excerpt": "The unexamined life is not worth living.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Socrates",
+    "attribution": "Socrates, attributed in Plato's Apology"
+  },
+  {
+    "id": "quote-002",
+    "category": "quote",
+    "title": "On courage",
+    "creator": "Nelson Mandela",
+    "excerpt": "I learned that courage was not the absence of fear, but the triumph over it.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Nelson_Mandela",
+    "attribution": "Nelson Mandela, Long Walk to Freedom"
+  },
+  {
+    "id": "quote-003",
+    "category": "quote",
+    "title": "On imagination",
+    "creator": "Albert Einstein",
+    "excerpt": "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Albert_Einstein",
+    "attribution": "Albert Einstein"
+  },
+  {
+    "id": "quote-004",
+    "category": "quote",
+    "title": "On the present",
+    "creator": "Buddha",
+    "excerpt": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Buddha",
+    "attribution": "Buddha, attributed"
+  },
+  {
+    "id": "quote-005",
+    "category": "quote",
+    "title": "On beauty",
+    "creator": "Oscar Wilde",
+    "excerpt": "Beauty is the wonder of wonders. It is only shallow people who do not judge by appearances.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+    "attribution": "Oscar Wilde, The Picture of Dorian Gray"
+  },
+  {
+    "id": "quote-006",
+    "category": "quote",
+    "title": "On persistence",
+    "creator": "Mary Anne Radmacher",
+    "excerpt": "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mary_Anne_Radmacher",
+    "attribution": "Mary Anne Radmacher"
+  },
+  {
+    "id": "quote-007",
+    "category": "quote",
+    "title": "On reading",
+    "creator": "Jorge Luis Borges",
+    "excerpt": "I have always imagined that Paradise will be a kind of library.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Jorge_Luis_Borges",
+    "attribution": "Jorge Luis Borges"
+  },
+  {
+    "id": "quote-008",
+    "category": "quote",
+    "title": "On art",
+    "creator": "Pablo Picasso",
+    "excerpt": "Art washes away from the soul the dust of everyday life.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Pablo_Picasso",
+    "attribution": "Pablo Picasso, attributed"
+  },
+  {
+    "id": "quote-009",
+    "category": "quote",
+    "title": "On simplicity",
+    "creator": "Henry David Thoreau",
+    "excerpt": "Our life is frittered away by detail. Simplify, simplify.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Henry_David_Thoreau",
+    "attribution": "Henry David Thoreau, Walden"
+  },
+  {
+    "id": "quote-010",
+    "category": "quote",
+    "title": "On wonder",
+    "creator": "Rachel Carson",
+    "excerpt": "Those who dwell among the beauties and mysteries of the earth are never alone or weary of life.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rachel_Carson",
+    "attribution": "Rachel Carson, The Sense of Wonder"
+  },
+  {
+    "id": "quote-011",
+    "category": "quote",
+    "title": "On kindness",
+    "creator": "Aesop",
+    "excerpt": "No act of kindness, no matter how small, is ever wasted.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Aesop",
+    "attribution": "Aesop, The Lion and the Mouse"
+  },
+  {
+    "id": "quote-012",
+    "category": "quote",
+    "title": "On time",
+    "creator": "Seneca",
+    "excerpt": "It is not that we have a short time to live, but that we waste a lot of it.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Seneca_the_Younger",
+    "attribution": "Seneca, On the Shortness of Life"
+  },
+  {
+    "id": "quote-013",
+    "category": "quote",
+    "title": "On light",
+    "creator": "Emily Dickinson",
+    "excerpt": "Forever is composed of nows.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Emily_Dickinson",
+    "attribution": "Emily Dickinson"
+  },
+  {
+    "id": "quote-014",
+    "category": "quote",
+    "title": "On truth",
+    "creator": "Maya Angelou",
+    "excerpt": "There is no greater agony than bearing an untold story inside you.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Maya_Angelou",
+    "attribution": "Maya Angelou, I Know Why the Caged Bird Sings"
+  },
+  {
+    "id": "quote-015",
+    "category": "quote",
+    "title": "On the sea",
+    "creator": "Virginia Woolf",
+    "excerpt": "The very stone one kicks with one's boot will outlast Shakespeare.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Virginia_Woolf",
+    "attribution": "Virginia Woolf, To the Lighthouse"
+  },
+  {
+    "id": "quote-016",
+    "category": "quote",
+    "title": "On hope",
+    "creator": "Emily Dickinson",
+    "excerpt": "Hope is the thing with feathers that perches in the soul.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Emily_Dickinson",
+    "attribution": "Emily Dickinson, Poem 254"
+  },
+  {
+    "id": "quote-017",
+    "category": "quote",
+    "title": "On creation",
+    "creator": "Mary Shelley",
+    "excerpt": "Nothing is so painful to the human mind as a great and sudden change.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Mary_Shelley",
+    "attribution": "Mary Shelley, Frankenstein"
+  },
+  {
+    "id": "quote-018",
+    "category": "quote",
+    "title": "On freedom",
+    "creator": "Simone de Beauvoir",
+    "excerpt": "One is not born, but rather becomes, a woman.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Simone_de_Beauvoir",
+    "attribution": "Simone de Beauvoir, The Second Sex"
+  },
+  {
+    "id": "quote-019",
+    "category": "quote",
+    "title": "On nature",
+    "creator": "John Muir",
+    "excerpt": "In every walk with nature one receives far more than he seeks.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/John_Muir",
+    "attribution": "John Muir"
+  },
+  {
+    "id": "quote-020",
+    "category": "quote",
+    "title": "On love",
+    "creator": "Leo Tolstoy",
+    "excerpt": "All happy families are alike; each unhappy family is unhappy in its own way.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Leo_Tolstoy",
+    "attribution": "Leo Tolstoy, Anna Karenina"
+  },
+  {
+    "id": "quote-021",
+    "category": "quote",
+    "title": "On silence",
+    "creator": "Rainer Maria Rilke",
+    "excerpt": "Let everything happen to you: beauty and terror. Just keep going. No feeling is final.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rainer_Maria_Rilke",
+    "attribution": "Rainer Maria Rilke, Go to the Limits of Your Longing"
+  },
+  {
+    "id": "quote-022",
+    "category": "quote",
+    "title": "On wisdom",
+    "creator": "Confucius",
+    "excerpt": "It does not matter how slowly you go as long as you do not stop.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Confucius",
+    "attribution": "Confucius, attributed"
+  },
+  {
+    "id": "quote-023",
+    "category": "quote",
+    "title": "On the stars",
+    "creator": "Carl Sagan",
+    "excerpt": "Somewhere, something incredible is waiting to be known.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Carl_Sagan",
+    "attribution": "Carl Sagan"
+  },
+  {
+    "id": "quote-024",
+    "category": "quote",
+    "title": "On writing",
+    "creator": "Annie Dillard",
+    "excerpt": "How we spend our days is, of course, how we spend our lives.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Annie_Dillard",
+    "attribution": "Annie Dillard, The Writing Life"
+  },
+  {
+    "id": "quote-025",
+    "category": "quote",
+    "title": "On memory",
+    "creator": "Marcel Proust",
+    "excerpt": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Marcel_Proust",
+    "attribution": "Marcel Proust, The Captive"
+  },
+  {
+    "id": "quote-026",
+    "category": "quote",
+    "title": "On the soul",
+    "creator": "Khalil Gibran",
+    "excerpt": "Your living is determined not so much by what life brings to you as by the attitude you bring to life.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Khalil_Gibran",
+    "attribution": "Khalil Gibran"
+  },
+  {
+    "id": "quote-027",
+    "category": "quote",
+    "title": "On dawn",
+    "creator": "Rumi",
+    "excerpt": "The morning breeze has secrets to tell you. Do not go back to sleep.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Rumi",
+    "attribution": "Rumi, translated"
+  },
+  {
+    "id": "quote-028",
+    "category": "quote",
+    "title": "On craft",
+    "creator": "Leonardo da Vinci",
+    "excerpt": "Simplicity is the ultimate sophistication.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+    "attribution": "Leonardo da Vinci, attributed"
+  },
+  {
+    "id": "quote-029",
+    "category": "quote",
+    "title": "On the journey",
+    "creator": "T.S. Eliot",
+    "excerpt": "We shall not cease from exploration, and the end of all our exploring will be to arrive where we started.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/T._S._Eliot",
+    "attribution": "T.S. Eliot, Little Gidding"
+  },
+  {
+    "id": "quote-030",
+    "category": "quote",
+    "title": "On seeing",
+    "creator": "Marcel Proust",
+    "excerpt": "The only true voyage of discovery would be not to visit strange lands but to possess other eyes.",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Marcel_Proust",
+    "attribution": "Marcel Proust, Remembrance of Things Past"
+  }
+]

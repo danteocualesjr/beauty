@@ -1,0 +1,287 @@
+[
+  {
+    "id": "painting-001",
+    "category": "painting",
+    "title": "Bridge over a Pond of Water Lilies",
+    "creator": "Claude Monet",
+    "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DT1053.jpg",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/437127",
+    "attribution": "Claude Monet, The Metropolitan Museum of Art",
+    "metObjectId": 437127
+  },
+  {
+    "id": "painting-002",
+    "category": "painting",
+    "title": "Self-Portrait with a Straw Hat (obverse: The Potato Peeler)",
+    "creator": "Vincent van Gogh",
+    "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DT1502_cropped2.jpg",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/436535",
+    "attribution": "Vincent van Gogh, The Metropolitan Museum of Art",
+    "metObjectId": 436535
+  },
+  {
+    "id": "painting-003",
+    "category": "painting",
+    "title": "The Dance Class",
+    "creator": "Edgar Degas",
+    "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DT1567.jpg",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/438817",
+    "attribution": "Edgar Degas, The Metropolitan Museum of Art",
+    "metObjectId": 438817
+  },
+  {
+    "id": "painting-004",
+    "category": "painting",
+    "title": "Washington Crossing the Delaware",
+    "creator": "Emanuel Leutze",
+    "imageUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT185.jpg",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/11417",
+    "attribution": "Emanuel Leutze, The Metropolitan Museum of Art",
+    "metObjectId": 11417
+  },
+  {
+    "id": "painting-005",
+    "category": "painting",
+    "title": "The Heart of the Andes",
+    "creator": "Frederic Edwin Church",
+    "imageUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT546.jpg",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/10497",
+    "attribution": "Frederic Edwin Church, The Metropolitan Museum of Art",
+    "metObjectId": 10497
+  },
+  {
+    "id": "painting-006",
+    "category": "painting",
+    "title": "The Gulf Stream",
+    "creator": "Winslow Homer",
+    "imageUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT1500.jpg",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/11122",
+    "attribution": "Winslow Homer, The Metropolitan Museum of Art",
+    "metObjectId": 11122
+  },
+  {
+    "id": "painting-007",
+    "category": "painting",
+    "title": "Young Woman with a Water Pitcher",
+    "creator": "Johannes Vermeer",
+    "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DT1979.jpg",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/437877",
+    "attribution": "Johannes Vermeer, The Metropolitan Museum of Art",
+    "metObjectId": 437877
+  },
+  {
+    "id": "painting-008",
+    "category": "painting",
+    "title": "The Penitent Magdalen",
+    "creator": "Georges de La Tour",
+    "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DT1970.jpg",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/436838",
+    "attribution": "Georges de La Tour, The Metropolitan Museum of Art",
+    "metObjectId": 436838
+  },
+  {
+    "id": "painting-009",
+    "category": "painting",
+    "title": "The Harvesters",
+    "creator": "Pieter Bruegel the Elder",
+    "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DT1560.jpg",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/435809",
+    "attribution": "Pieter Bruegel the Elder, The Metropolitan Museum of Art",
+    "metObjectId": 435809
+  },
+  {
+    "id": "painting-010",
+    "category": "painting",
+    "title": "The Musicians",
+    "creator": "Caravaggio",
+    "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DT1967.jpg",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/435844",
+    "attribution": "Caravaggio, The Metropolitan Museum of Art",
+    "metObjectId": 435844
+  },
+  {
+    "id": "painting-011",
+    "category": "painting",
+    "title": "The Storm",
+    "creator": "Pierre-Auguste Cot",
+    "imageUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT263.jpg",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/12819",
+    "attribution": "Pierre-Auguste Cot, The Metropolitan Museum of Art",
+    "metObjectId": 12819
+  },
+  {
+    "id": "painting-012",
+    "category": "painting",
+    "title": "The Death of Socrates",
+    "creator": "Jacques-Louis David",
+    "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DT1167.jpg",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/436105",
+    "attribution": "Jacques-Louis David, The Metropolitan Museum of Art",
+    "metObjectId": 436105
+  },
+  {
+    "id": "painting-013",
+    "category": "painting",
+    "title": "The Horse Fair",
+    "creator": "Rosa Bonheur",
+    "imageUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT1876.jpg",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/10499",
+    "attribution": "Rosa Bonheur, The Metropolitan Museum of Art",
+    "metObjectId": 10499
+  },
+  {
+    "id": "painting-014",
+    "category": "painting",
+    "title": "The Rocky Mountains, Lander's Peak",
+    "creator": "Albert Bierstadt",
+    "imageUrl": "https://images.metmuseum.org/CRDImages/ad/original/DT1877.jpg",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/10156",
+    "attribution": "Albert Bierstadt, The Metropolitan Museum of Art",
+    "metObjectId": 10156
+  },
+  {
+    "id": "painting-015",
+    "category": "painting",
+    "title": "The Bridge at Villeneuve-la-Garenne",
+    "creator": "Alfred Sisley",
+    "imageUrl": "https://images.metmuseum.org/CRDImages/ep/original/DT1878.jpg",
+    "sourceUrl": "https://www.metmuseum.org/art/collection/search/437430",
+    "attribution": "Alfred Sisley, The Metropolitan Museum of Art",
+    "metObjectId": 437430
+  },
+  {
+    "id": "painting-016",
+    "category": "painting",
+    "title": "The Starry Night",
+    "creator": "Vincent van Gogh",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Starry_Night",
+    "attribution": "Vincent van Gogh, Wikimedia Commons"
+  },
+  {
+    "id": "painting-017",
+    "category": "painting",
+    "title": "The Great Wave off Kanagawa",
+    "creator": "Katsushika Hokusai",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1280px-Tsunami_by_hokusai_19th_century.jpg",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa",
+    "attribution": "Katsushika Hokusai, Wikimedia Commons"
+  },
+  {
+    "id": "painting-018",
+    "category": "painting",
+    "title": "Girl with a Pearl Earring",
+    "creator": "Johannes Vermeer",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/960px-1665_Girl_with_a_Pearl_Earring.jpg",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring",
+    "attribution": "Johannes Vermeer, Wikimedia Commons"
+  },
+  {
+    "id": "painting-019",
+    "category": "painting",
+    "title": "The Kiss",
+    "creator": "Gustav Klimt",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg/960px-The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Kiss_(Klimt)",
+    "attribution": "Gustav Klimt, Wikimedia Commons"
+  },
+  {
+    "id": "painting-020",
+    "category": "painting",
+    "title": "The Persistence of Memory",
+    "creator": "Salvador Dalí",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Persistence_of_Memory.jpg",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Persistence_of_Memory",
+    "attribution": "Salvador Dalí, Wikimedia Commons"
+  },
+  {
+    "id": "painting-021",
+    "category": "painting",
+    "title": "Nighthawks",
+    "creator": "Edward Hopper",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg/1280px-Nighthawks_by_Edward_Hopper_1942.jpg",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Nighthawks_(painting)",
+    "attribution": "Edward Hopper, Wikimedia Commons"
+  },
+  {
+    "id": "painting-022",
+    "category": "painting",
+    "title": "American Gothic",
+    "creator": "Grant Wood",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg/640px-Grant_Wood_-_American_Gothic_-_Google_Art_Project.jpg",
+    "sourceUrl": "https://en.wikipedia.org/wiki/American_Gothic",
+    "attribution": "Grant Wood, Wikimedia Commons"
+  },
+  {
+    "id": "painting-023",
+    "category": "painting",
+    "title": "The Birth of Venus",
+    "creator": "Sandro Botticelli",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/1280px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Birth_of_Venus",
+    "attribution": "Sandro Botticelli, Wikimedia Commons"
+  },
+  {
+    "id": "painting-024",
+    "category": "painting",
+    "title": "The Night Watch",
+    "creator": "Rembrandt",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Night_Watch_-_HD.jpg/1280px-The_Night_Watch_-_HD.jpg",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Night_Watch",
+    "attribution": "Rembrandt, Wikimedia Commons"
+  },
+  {
+    "id": "painting-025",
+    "category": "painting",
+    "title": "Impression, Sunrise",
+    "creator": "Claude Monet",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Monet_-_Impression%2C_Sunrise.jpg/1280px-Monet_-_Impression%2C_Sunrise.jpg",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Impression,_Sunrise",
+    "attribution": "Claude Monet, Wikimedia Commons"
+  },
+  {
+    "id": "painting-026",
+    "category": "painting",
+    "title": "The Scream",
+    "creator": "Edvard Munch",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_Nasjonalgalleriet%2C_Oslo%2C_Norway_-_20101123-0958.jpg/640px-Edvard_Munch%2C_1893%2C_The_Scream%2C_Nasjonalgalleriet%2C_Oslo%2C_Norway_-_20101123-0958.jpg",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Scream",
+    "attribution": "Edvard Munch, Wikimedia Commons"
+  },
+  {
+    "id": "painting-027",
+    "category": "painting",
+    "title": "Water Lilies",
+    "creator": "Claude Monet",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg/1280px-Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Water_Lilies_(Monet_series)",
+    "attribution": "Claude Monet, Wikimedia Commons"
+  },
+  {
+    "id": "painting-028",
+    "category": "painting",
+    "title": "The Arnolfini Portrait",
+    "creator": "Jan van Eyck",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Van_Eyck_-_Arnolfini_Portrait.jpg/640px-Van_Eyck_-_Arnolfini_Portrait.jpg",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Arnolfini_Portrait",
+    "attribution": "Jan van Eyck, Wikimedia Commons"
+  },
+  {
+    "id": "painting-029",
+    "category": "painting",
+    "title": "Las Meninas",
+    "creator": "Diego Velázquez",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg/960px-Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Las_Meninas",
+    "attribution": "Diego Velázquez, Wikimedia Commons"
+  },
+  {
+    "id": "painting-030",
+    "category": "painting",
+    "title": "The Garden of Earthly Delights",
+    "creator": "Hieronymus Bosch",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/The_Garden_of_earthly_delights.jpg/1280px-The_Garden_of_earthly_delights.jpg",
+    "sourceUrl": "https://en.wikipedia.org/wiki/The_Garden_of_Earthly_Delights",
+    "attribution": "Hieronymus Bosch, Wikimedia Commons"
+  }
+]
